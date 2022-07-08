@@ -83,7 +83,7 @@ Understand how orchestrating MySql server, MySql workbench and AdonisJs works.
 
 # Setup AdonisJs : https://adonisjs.com/
 
-1. Follow the instructions under AdonisJs API Bash Commands.txt and below:
+1. Follow the instructions under AdonisJs API Bash Commands.txt and below by Solomon Eseme: https://www.section.io/engineering-education/build-a-restful-api-with-adonisjs/
 ![Untitled](https://user-images.githubusercontent.com/63293696/178062072-d47e323b-3861-4162-abff-d5a9fecc5e3f.png)
 
 
