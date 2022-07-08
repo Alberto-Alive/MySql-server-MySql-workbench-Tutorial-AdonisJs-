@@ -68,7 +68,7 @@ Understand how orchestrating MySql server, MySql workbench and AdonisJs works.
 3. This is how it looks like inside:
 ![W8-MySql Interface Connected](https://user-images.githubusercontent.com/63293696/178060365-6f699767-9f0b-4853-85e6-2850241b83be.png)
 
-4. To create a new schema click on that ![image](https://user-images.githubusercontent.com/63293696/178060533-5d36be77-6f96-4961-a5ee-0342d1e17ec2.png) 
+4. To create a new schema click on that ![image](https://user-images.githubusercontent.com/63293696/178061126-3ce4c04d-9c9a-46dc-a16c-86a48ce5f8c0.png)
 ![W8-MySql New Schema Create](https://user-images.githubusercontent.com/63293696/178060569-5b73f5bc-a22b-4bf5-a389-f126894c8e63.png)
 
 5. Apply schema
