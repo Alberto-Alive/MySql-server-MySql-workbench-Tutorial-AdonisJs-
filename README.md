@@ -81,5 +81,9 @@ Understand how orchestrating MySql server, MySql workbench and AdonisJs works.
 ![W8-MySql Schema Users Table](https://user-images.githubusercontent.com/63293696/178060800-8a240dba-8b55-4379-b56b-0941ae0e1b8f.png)
 
 
+# Setup AdonisJs : https://adonisjs.com/
+
+1. Follow the instructions under AdonisJs API Bash Commands.txt and below:
+![Untitled](https://user-images.githubusercontent.com/63293696/178062072-d47e323b-3861-4162-abff-d5a9fecc5e3f.png)
 
 
