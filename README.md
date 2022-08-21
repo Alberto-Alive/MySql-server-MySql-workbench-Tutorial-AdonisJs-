@@ -50,7 +50,7 @@ Understand how orchestrating MySql server, MySql workbench and AdonisJs works.
 11. Apply configurations
 ![MySql-applyconfig](https://user-images.githubusercontent.com/63293696/178059797-c216bdd2-414b-486d-b6bd-9f76db1f0318.png)
 
-12. Configurtion is complete
+12. Configuration is complete
 ![MySql-prodconf](https://user-images.githubusercontent.com/63293696/178059931-ae42f7b5-4460-45ed-8a87-cdd359b5cabc.png)
 
 13. Installation is complete
